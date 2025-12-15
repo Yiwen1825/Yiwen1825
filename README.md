@@ -1,6 +1,4 @@
-> 17
-
-> JMGSH
+> NTHU
 
 > CTFer
 
